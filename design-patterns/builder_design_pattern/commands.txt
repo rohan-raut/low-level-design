@@ -1,0 +1,3 @@
+g++ -c Desktop.cpp DellDesktopBuilder.cpp HPDesktopBuilder.cpp
+ar ru builder_lib.a Desktop.o DellDesktopBuilder.o HPDesktopBuilder.o
+g++ -o client client.cpp builder_lib.a
