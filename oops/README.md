@@ -20,6 +20,8 @@ Ways to resolve Ambiguity:
 - If it is a function, override it in the derived class.
 - If it is a function, create a same function in derived class and specify which base function to call. Syntax: ```BaseA :: greet();``` This will call the BaseA greet function.
 
+---
+
 ## Virtual Base Class
 
     Hybrid Inheritance
@@ -82,6 +84,7 @@ class D: public B, public C{
 Class A is now called as virtual base class.
 For a good practise try to avoid multiple inheritance and use abstract class instead.
 
+---
 
 ## Constructor call in Inheritance
 
@@ -102,8 +105,72 @@ Syntax: ```Class C(a1, a2, a3, a4, a5, a6): A(a3, a4), B(a5, a6) {}```
 - ```class A: public B, virtual public C``` Order of execution of constructor -> C() then B() then A().
 - Virtual Base class constructor will always be executed first, let it be any hierarchy.
 
+---
 
 ## Polymorphism
 
 ![Polymorphism Types](polymorphism.png)
 
+We can create a base class pointer and assign a derived class object to it. But the pointer can only access base class members and functions, cannot access derived class members and functions.
+
+```cpp
+BaseClass *ptr = new DerivedClass();
+ptr->display(); // will call the base class display function
+ptr->derived_var; // will throw an error
+```
+
+### Virtual Functions
+When we create a base class pointer and assign it with a derived class object and want to call a function of derived class, then make the function as virtual function in base class. Virtual function allows us to override the function and runtime polymorphism is achieved.
+
+```cpp
+class Base{
+    public:
+    int var_base = 1;
+    virtual void display(){
+        cout<<"This is base function"<<endl;
+    }
+};
+
+class Derived: public Base{
+    public:
+    int var_derived = 2;
+    void display(){
+        cout<<"This is derived function"<<endl;
+    }
+};
+
+int main(){
+    Base* obj = new Derived();
+    obj->display(); // this will call the derived class display function
+    return 0;
+}
+```
+
+Rules for virtual functions:
+- They cannot be static
+- They are accessed by object pointer
+- Virtual functions can be a friend function of another class
+- A virtual function in base class might not be used
+- If a virtual function is defined in a base class, there is no necessity of redefining it in the derived class
+
+---
+
+## Abstract Class & Pure Virtual Function
+
+```cpp
+class Base{
+    public:
+    int var1, var2;
+
+    Base(int a, int b){
+        var1 = a;
+        var2 = b;
+    }
+
+    virtual void display() = 0; // do-nothing function
+};
+```
+
+In the above code, ```display()``` function is a pure virtual function which is mandatory to define in all the classes which is derived from it.
+
+The class which has atleast one pure virtual function is known as abstract class. We cannot create objects of abstract classes.
