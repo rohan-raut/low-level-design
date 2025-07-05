@@ -1,0 +1,43 @@
+Object Oriented Programming
+- Encapsulation
+- Abstraction
+- Inheritance
+- Polymorphism
+- SOLID Principles
+
+
+Design Patters
+- Creational (singleton, factory etc.)
+- Structural (Proxy, Bridge etc.)
+- Behavioral (Strategy, Command, Observer etc.)
+
+
+Concurrency & Thread safety
+- Thread safe injection
+- Locking mechanisms
+- Producer-Consumer
+- Race conditions & synchronization
+
+
+UML Diagrams
+
+
+APIs
+- API design
+- req/res object modeling
+- versionsing & extensibility
+- Clean code principles: DRY, SRP etc.
+- Avoid God classes
+
+
+Common LLD Problems
+- Design a Tic-tac-toe or chess game
+- Design a Splitwise App
+- Design a Parking lot
+- Design an elevator system with multiple lifts
+- Design a notification system
+- Design a Food devliery app
+- Design a movie ticket booking system
+- Design a URL shortener
+- Design a Logging framework
+- Design a Rate Limiter
