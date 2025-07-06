@@ -16,3 +16,4 @@ Focuses on objects communications and interactions, promotes loose coupling and 
 - Iterator
 - Observer
 - Memento
+- Strategy
