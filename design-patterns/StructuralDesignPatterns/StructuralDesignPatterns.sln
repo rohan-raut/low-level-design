@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDesignPattern", "AdapterDesignPattern\AdapterDesignPattern.csproj", "{BF9E7817-4AF1-49F7-943E-A4652478A8FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeDesignPattern", "BridgeDesignPattern\BridgeDesignPattern.csproj", "{0709DF93-882A-4744-B138-44AB6BC66F40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyDesignPattern", "ProxyDesignPattern\ProxyDesignPattern.csproj", "{F1467450-FB17-4C84-9D43-CC76F32A4ACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeDesignPattern", "FacadeDesignPattern\FacadeDesignPattern.csproj", "{871513BD-7A20-44B0-81DD-D960D7F94ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF9E7817-4AF1-49F7-943E-A4652478A8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9E7817-4AF1-49F7-943E-A4652478A8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9E7817-4AF1-49F7-943E-A4652478A8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9E7817-4AF1-49F7-943E-A4652478A8FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0709DF93-882A-4744-B138-44AB6BC66F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0709DF93-882A-4744-B138-44AB6BC66F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0709DF93-882A-4744-B138-44AB6BC66F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0709DF93-882A-4744-B138-44AB6BC66F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1467450-FB17-4C84-9D43-CC76F32A4ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1467450-FB17-4C84-9D43-CC76F32A4ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1467450-FB17-4C84-9D43-CC76F32A4ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1467450-FB17-4C84-9D43-CC76F32A4ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871513BD-7A20-44B0-81DD-D960D7F94ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871513BD-7A20-44B0-81DD-D960D7F94ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871513BD-7A20-44B0-81DD-D960D7F94ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871513BD-7A20-44B0-81DD-D960D7F94ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67D54255-A85D-4987-A689-940C1F9B2E38}
+	EndGlobalSection
+EndGlobal

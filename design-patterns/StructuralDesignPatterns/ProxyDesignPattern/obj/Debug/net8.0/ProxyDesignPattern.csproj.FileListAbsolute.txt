@@ -1,0 +1,15 @@
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\ProxyDesignPattern\bin\Debug\net8.0\ProxyDesignPattern.exe
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\ProxyDesignPattern\bin\Debug\net8.0\ProxyDesignPattern.deps.json
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\ProxyDesignPattern\bin\Debug\net8.0\ProxyDesignPattern.runtimeconfig.json
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\ProxyDesignPattern\bin\Debug\net8.0\ProxyDesignPattern.dll
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\ProxyDesignPattern\bin\Debug\net8.0\ProxyDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\ProxyDesignPattern\obj\Debug\net8.0\ProxyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\ProxyDesignPattern\obj\Debug\net8.0\ProxyDesignPattern.AssemblyInfoInputs.cache
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\ProxyDesignPattern\obj\Debug\net8.0\ProxyDesignPattern.AssemblyInfo.cs
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\ProxyDesignPattern\obj\Debug\net8.0\ProxyDesignPattern.csproj.CoreCompileInputs.cache
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\ProxyDesignPattern\obj\Debug\net8.0\ProxyDesignPattern.sourcelink.json
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\ProxyDesignPattern\obj\Debug\net8.0\ProxyDesignPattern.dll
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\ProxyDesignPattern\obj\Debug\net8.0\refint\ProxyDesignPattern.dll
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\ProxyDesignPattern\obj\Debug\net8.0\ProxyDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\ProxyDesignPattern\obj\Debug\net8.0\ProxyDesignPattern.genruntimeconfig.cache
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\ProxyDesignPattern\obj\Debug\net8.0\ref\ProxyDesignPattern.dll

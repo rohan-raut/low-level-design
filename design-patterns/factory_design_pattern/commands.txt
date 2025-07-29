@@ -1,4 +1,0 @@
-g++ -c car.cpp bike.cpp vehicle_factory.cpp
-ar ru vehicle_lib.a car.o bike.o vehicle_factory.o
-g++ -o client client.cpp vehicle_lib.a
-./client

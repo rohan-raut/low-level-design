@@ -1,0 +1,15 @@
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\AdapterDesignPattern\bin\Debug\net8.0\AdapterDesignPattern.exe
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\AdapterDesignPattern\bin\Debug\net8.0\AdapterDesignPattern.deps.json
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\AdapterDesignPattern\bin\Debug\net8.0\AdapterDesignPattern.runtimeconfig.json
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\AdapterDesignPattern\bin\Debug\net8.0\AdapterDesignPattern.dll
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\AdapterDesignPattern\bin\Debug\net8.0\AdapterDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\AdapterDesignPattern\obj\Debug\net8.0\AdapterDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\AdapterDesignPattern\obj\Debug\net8.0\AdapterDesignPattern.AssemblyInfoInputs.cache
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\AdapterDesignPattern\obj\Debug\net8.0\AdapterDesignPattern.AssemblyInfo.cs
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\AdapterDesignPattern\obj\Debug\net8.0\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\AdapterDesignPattern\obj\Debug\net8.0\AdapterDesignPattern.sourcelink.json
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\AdapterDesignPattern\obj\Debug\net8.0\AdapterDesignPattern.dll
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\AdapterDesignPattern\obj\Debug\net8.0\refint\AdapterDesignPattern.dll
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\AdapterDesignPattern\obj\Debug\net8.0\AdapterDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\AdapterDesignPattern\obj\Debug\net8.0\AdapterDesignPattern.genruntimeconfig.cache
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\AdapterDesignPattern\obj\Debug\net8.0\ref\AdapterDesignPattern.dll

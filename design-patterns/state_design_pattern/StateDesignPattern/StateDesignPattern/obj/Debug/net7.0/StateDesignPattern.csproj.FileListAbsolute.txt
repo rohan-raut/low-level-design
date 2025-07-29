@@ -1,0 +1,15 @@
+D:\projects\low-level-design\design-patterns\state_design_pattern\StateDesignPattern\StateDesignPattern\obj\Debug\net7.0\StateDesignPattern.csproj.AssemblyReference.cache
+D:\projects\low-level-design\design-patterns\state_design_pattern\StateDesignPattern\StateDesignPattern\obj\Debug\net7.0\StateDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\low-level-design\design-patterns\state_design_pattern\StateDesignPattern\StateDesignPattern\obj\Debug\net7.0\StateDesignPattern.AssemblyInfoInputs.cache
+D:\projects\low-level-design\design-patterns\state_design_pattern\StateDesignPattern\StateDesignPattern\obj\Debug\net7.0\StateDesignPattern.AssemblyInfo.cs
+D:\projects\low-level-design\design-patterns\state_design_pattern\StateDesignPattern\StateDesignPattern\obj\Debug\net7.0\StateDesignPattern.csproj.CoreCompileInputs.cache
+D:\projects\low-level-design\design-patterns\state_design_pattern\StateDesignPattern\StateDesignPattern\bin\Debug\net7.0\StateDesignPattern.exe
+D:\projects\low-level-design\design-patterns\state_design_pattern\StateDesignPattern\StateDesignPattern\bin\Debug\net7.0\StateDesignPattern.deps.json
+D:\projects\low-level-design\design-patterns\state_design_pattern\StateDesignPattern\StateDesignPattern\bin\Debug\net7.0\StateDesignPattern.runtimeconfig.json
+D:\projects\low-level-design\design-patterns\state_design_pattern\StateDesignPattern\StateDesignPattern\bin\Debug\net7.0\StateDesignPattern.dll
+D:\projects\low-level-design\design-patterns\state_design_pattern\StateDesignPattern\StateDesignPattern\bin\Debug\net7.0\StateDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\state_design_pattern\StateDesignPattern\StateDesignPattern\obj\Debug\net7.0\StateDesignPattern.dll
+D:\projects\low-level-design\design-patterns\state_design_pattern\StateDesignPattern\StateDesignPattern\obj\Debug\net7.0\refint\StateDesignPattern.dll
+D:\projects\low-level-design\design-patterns\state_design_pattern\StateDesignPattern\StateDesignPattern\obj\Debug\net7.0\StateDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\state_design_pattern\StateDesignPattern\StateDesignPattern\obj\Debug\net7.0\StateDesignPattern.genruntimeconfig.cache
+D:\projects\low-level-design\design-patterns\state_design_pattern\StateDesignPattern\StateDesignPattern\obj\Debug\net7.0\ref\StateDesignPattern.dll

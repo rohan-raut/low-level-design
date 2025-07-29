@@ -1,0 +1,15 @@
+D:\projects\low-level-design\design-patterns\mediator_design_pattern\MediatorDesignPattern\MediatorDesignPattern\bin\Debug\net7.0\MediatorDesignPattern.exe
+D:\projects\low-level-design\design-patterns\mediator_design_pattern\MediatorDesignPattern\MediatorDesignPattern\bin\Debug\net7.0\MediatorDesignPattern.deps.json
+D:\projects\low-level-design\design-patterns\mediator_design_pattern\MediatorDesignPattern\MediatorDesignPattern\bin\Debug\net7.0\MediatorDesignPattern.runtimeconfig.json
+D:\projects\low-level-design\design-patterns\mediator_design_pattern\MediatorDesignPattern\MediatorDesignPattern\bin\Debug\net7.0\MediatorDesignPattern.dll
+D:\projects\low-level-design\design-patterns\mediator_design_pattern\MediatorDesignPattern\MediatorDesignPattern\bin\Debug\net7.0\MediatorDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\mediator_design_pattern\MediatorDesignPattern\MediatorDesignPattern\obj\Debug\net7.0\MediatorDesignPattern.csproj.AssemblyReference.cache
+D:\projects\low-level-design\design-patterns\mediator_design_pattern\MediatorDesignPattern\MediatorDesignPattern\obj\Debug\net7.0\MediatorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\low-level-design\design-patterns\mediator_design_pattern\MediatorDesignPattern\MediatorDesignPattern\obj\Debug\net7.0\MediatorDesignPattern.AssemblyInfoInputs.cache
+D:\projects\low-level-design\design-patterns\mediator_design_pattern\MediatorDesignPattern\MediatorDesignPattern\obj\Debug\net7.0\MediatorDesignPattern.AssemblyInfo.cs
+D:\projects\low-level-design\design-patterns\mediator_design_pattern\MediatorDesignPattern\MediatorDesignPattern\obj\Debug\net7.0\MediatorDesignPattern.csproj.CoreCompileInputs.cache
+D:\projects\low-level-design\design-patterns\mediator_design_pattern\MediatorDesignPattern\MediatorDesignPattern\obj\Debug\net7.0\MediatorDesignPattern.dll
+D:\projects\low-level-design\design-patterns\mediator_design_pattern\MediatorDesignPattern\MediatorDesignPattern\obj\Debug\net7.0\refint\MediatorDesignPattern.dll
+D:\projects\low-level-design\design-patterns\mediator_design_pattern\MediatorDesignPattern\MediatorDesignPattern\obj\Debug\net7.0\MediatorDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\mediator_design_pattern\MediatorDesignPattern\MediatorDesignPattern\obj\Debug\net7.0\MediatorDesignPattern.genruntimeconfig.cache
+D:\projects\low-level-design\design-patterns\mediator_design_pattern\MediatorDesignPattern\MediatorDesignPattern\obj\Debug\net7.0\ref\MediatorDesignPattern.dll

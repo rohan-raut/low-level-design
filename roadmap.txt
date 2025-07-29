@@ -41,3 +41,10 @@ Common LLD Problems
 - Design a URL shortener
 - Design a Logging framework
 - Design a Rate Limiter
+
+
+To Do:
+Mediator design pattern
+singleton design pattern in c#
+builder design pattern
+

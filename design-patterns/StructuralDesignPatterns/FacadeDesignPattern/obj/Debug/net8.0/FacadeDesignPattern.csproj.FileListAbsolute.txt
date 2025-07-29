@@ -1,0 +1,15 @@
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FacadeDesignPattern\bin\Debug\net8.0\FacadeDesignPattern.exe
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FacadeDesignPattern\bin\Debug\net8.0\FacadeDesignPattern.deps.json
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FacadeDesignPattern\bin\Debug\net8.0\FacadeDesignPattern.runtimeconfig.json
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FacadeDesignPattern\bin\Debug\net8.0\FacadeDesignPattern.dll
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FacadeDesignPattern\bin\Debug\net8.0\FacadeDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.AssemblyInfoInputs.cache
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.AssemblyInfo.cs
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.csproj.CoreCompileInputs.cache
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.sourcelink.json
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.dll
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FacadeDesignPattern\obj\Debug\net8.0\refint\FacadeDesignPattern.dll
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.genruntimeconfig.cache
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FacadeDesignPattern\obj\Debug\net8.0\ref\FacadeDesignPattern.dll

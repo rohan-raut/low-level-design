@@ -1,0 +1,15 @@
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.exe
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.deps.json
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.runtimeconfig.json
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.dll
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.AssemblyInfoInputs.cache
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.AssemblyInfo.cs
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.sourcelink.json
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.dll
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\refint\FactoryDesignPattern.dll
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.genruntimeconfig.cache
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\ref\FactoryDesignPattern.dll

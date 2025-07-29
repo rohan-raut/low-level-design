@@ -1,0 +1,15 @@
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\BridgeDesignPattern\bin\Debug\net8.0\BridgeDesignPattern.exe
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\BridgeDesignPattern\bin\Debug\net8.0\BridgeDesignPattern.deps.json
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\BridgeDesignPattern\bin\Debug\net8.0\BridgeDesignPattern.runtimeconfig.json
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\BridgeDesignPattern\bin\Debug\net8.0\BridgeDesignPattern.dll
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\BridgeDesignPattern\bin\Debug\net8.0\BridgeDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\BridgeDesignPattern\obj\Debug\net8.0\BridgeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\BridgeDesignPattern\obj\Debug\net8.0\BridgeDesignPattern.AssemblyInfoInputs.cache
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\BridgeDesignPattern\obj\Debug\net8.0\BridgeDesignPattern.AssemblyInfo.cs
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\BridgeDesignPattern\obj\Debug\net8.0\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\BridgeDesignPattern\obj\Debug\net8.0\BridgeDesignPattern.sourcelink.json
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\BridgeDesignPattern\obj\Debug\net8.0\BridgeDesignPattern.dll
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\BridgeDesignPattern\obj\Debug\net8.0\refint\BridgeDesignPattern.dll
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\BridgeDesignPattern\obj\Debug\net8.0\BridgeDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\BridgeDesignPattern\obj\Debug\net8.0\BridgeDesignPattern.genruntimeconfig.cache
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\BridgeDesignPattern\obj\Debug\net8.0\ref\BridgeDesignPattern.dll

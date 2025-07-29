@@ -1,0 +1,15 @@
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.exe
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.deps.json
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.runtimeconfig.json
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.dll
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.AssemblyInfoInputs.cache
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.AssemblyInfo.cs
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.sourcelink.json
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.dll
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\SingletonDesignPattern\obj\Debug\net8.0\refint\SingletonDesignPattern.dll
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.genruntimeconfig.cache
+D:\projects\low-level-design\design-patterns\CreationalDesignPatterns\SingletonDesignPattern\obj\Debug\net8.0\ref\SingletonDesignPattern.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\low-level-design\\design-patterns\\CreationalDesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F372937-E50A-4D09-8619-C5163BF6BA3C}|BuilderDesignPattern\\BuilderDesignPattern.csproj|d:\\projects\\low-level-design\\design-patterns\\creationaldesignpatterns\\builderdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F372937-E50A-4D09-8619-C5163BF6BA3C}|BuilderDesignPattern\\BuilderDesignPattern.csproj|solutionrelative:builderdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F372937-E50A-4D09-8619-C5163BF6BA3C}|BuilderDesignPattern\\BuilderDesignPattern.csproj|d:\\projects\\low-level-design\\design-patterns\\creationaldesignpatterns\\builderdesignpattern\\concretebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F372937-E50A-4D09-8619-C5163BF6BA3C}|BuilderDesignPattern\\BuilderDesignPattern.csproj|solutionrelative:builderdesignpattern\\concretebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F372937-E50A-4D09-8619-C5163BF6BA3C}|BuilderDesignPattern\\BuilderDesignPattern.csproj|d:\\projects\\low-level-design\\design-patterns\\creationaldesignpatterns\\builderdesignpattern\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F372937-E50A-4D09-8619-C5163BF6BA3C}|BuilderDesignPattern\\BuilderDesignPattern.csproj|solutionrelative:builderdesignpattern\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F372937-E50A-4D09-8619-C5163BF6BA3C}|BuilderDesignPattern\\BuilderDesignPattern.csproj|d:\\projects\\low-level-design\\design-patterns\\creationaldesignpatterns\\builderdesignpattern\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F372937-E50A-4D09-8619-C5163BF6BA3C}|BuilderDesignPattern\\BuilderDesignPattern.csproj|solutionrelative:builderdesignpattern\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F372937-E50A-4D09-8619-C5163BF6BA3C}|BuilderDesignPattern\\BuilderDesignPattern.csproj|d:\\projects\\low-level-design\\design-patterns\\creationaldesignpatterns\\builderdesignpattern\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F372937-E50A-4D09-8619-C5163BF6BA3C}|BuilderDesignPattern\\BuilderDesignPattern.csproj|solutionrelative:builderdesignpattern\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Director.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\CreationalDesignPatterns\\BuilderDesignPattern\\Director.cs",
+              "RelativeDocumentMoniker": "BuilderDesignPattern\\Director.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\CreationalDesignPatterns\\BuilderDesignPattern\\Director.cs",
+              "RelativeToolTip": "BuilderDesignPattern\\Director.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T06:14:45.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\CreationalDesignPatterns\\BuilderDesignPattern\\Product.cs",
+              "RelativeDocumentMoniker": "BuilderDesignPattern\\Product.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\CreationalDesignPatterns\\BuilderDesignPattern\\Product.cs",
+              "RelativeToolTip": "BuilderDesignPattern\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T06:14:08.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConcreteBuilder.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\CreationalDesignPatterns\\BuilderDesignPattern\\ConcreteBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderDesignPattern\\ConcreteBuilder.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\CreationalDesignPatterns\\BuilderDesignPattern\\ConcreteBuilder.cs",
+              "RelativeToolTip": "BuilderDesignPattern\\ConcreteBuilder.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T06:12:52.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBuilder.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\CreationalDesignPatterns\\BuilderDesignPattern\\IBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderDesignPattern\\IBuilder.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\CreationalDesignPatterns\\BuilderDesignPattern\\IBuilder.cs",
+              "RelativeToolTip": "BuilderDesignPattern\\IBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T06:11:22.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\CreationalDesignPatterns\\BuilderDesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "BuilderDesignPattern\\Program.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\CreationalDesignPatterns\\BuilderDesignPattern\\Program.cs",
+              "RelativeToolTip": "BuilderDesignPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T06:11:06.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
