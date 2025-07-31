@@ -1,0 +1,15 @@
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\CompositeDesignPattern\bin\Debug\net8.0\CompositeDesignPattern.exe
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\CompositeDesignPattern\bin\Debug\net8.0\CompositeDesignPattern.deps.json
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\CompositeDesignPattern\bin\Debug\net8.0\CompositeDesignPattern.runtimeconfig.json
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\CompositeDesignPattern\bin\Debug\net8.0\CompositeDesignPattern.dll
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\CompositeDesignPattern\bin\Debug\net8.0\CompositeDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.AssemblyInfoInputs.cache
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.AssemblyInfo.cs
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.csproj.CoreCompileInputs.cache
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.sourcelink.json
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.dll
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\CompositeDesignPattern\obj\Debug\net8.0\refint\CompositeDesignPattern.dll
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.genruntimeconfig.cache
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\CompositeDesignPattern\obj\Debug\net8.0\ref\CompositeDesignPattern.dll

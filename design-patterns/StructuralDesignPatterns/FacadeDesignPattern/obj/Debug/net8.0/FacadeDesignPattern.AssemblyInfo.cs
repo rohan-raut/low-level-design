@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FacadeDesignPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+459e0d2d49e23020adfe0af0a8140a286336effd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc23ea95e27271907d5c08c72dd6b60aa5a0028e")]
 [assembly: System.Reflection.AssemblyProductAttribute("FacadeDesignPattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FacadeDesignPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

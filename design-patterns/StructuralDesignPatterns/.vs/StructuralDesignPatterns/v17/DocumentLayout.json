@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{871513BD-7A20-44B0-81DD-D960D7F94ADB}|FacadeDesignPattern\\FacadeDesignPattern.csproj|d:\\projects\\low-level-design\\design-patterns\\structuraldesignpatterns\\facadedesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{871513BD-7A20-44B0-81DD-D960D7F94ADB}|FacadeDesignPattern\\FacadeDesignPattern.csproj|solutionrelative:facadedesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1E4F9C4-A456-45B7-9A79-4400E15C1A89}|DecoratorDesignPattern\\DecoratorDesignPattern.csproj|d:\\projects\\low-level-design\\design-patterns\\structuraldesignpatterns\\decoratordesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E4F9C4-A456-45B7-9A79-4400E15C1A89}|DecoratorDesignPattern\\DecoratorDesignPattern.csproj|solutionrelative:decoratordesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\FacadeDesignPattern\\Program.cs",
-              "RelativeDocumentMoniker": "FacadeDesignPattern\\Program.cs",
-              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\FacadeDesignPattern\\Program.cs",
-              "RelativeToolTip": "FacadeDesignPattern\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\DecoratorDesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "DecoratorDesignPattern\\Program.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\DecoratorDesignPattern\\Program.cs",
+              "RelativeToolTip": "DecoratorDesignPattern\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBQAAAB+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T15:09:00.419Z",
+              "WhenOpened": "2025-07-30T14:54:37.074Z",
               "EditorCaption": ""
             }
           ]

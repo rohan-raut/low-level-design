@@ -1,0 +1,15 @@
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Iterator\bin\Debug\net8.0\Iterator.exe
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Iterator\bin\Debug\net8.0\Iterator.deps.json
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Iterator\bin\Debug\net8.0\Iterator.runtimeconfig.json
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Iterator\bin\Debug\net8.0\Iterator.dll
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Iterator\bin\Debug\net8.0\Iterator.pdb
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Iterator\obj\Debug\net8.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Iterator\obj\Debug\net8.0\Iterator.AssemblyInfoInputs.cache
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Iterator\obj\Debug\net8.0\Iterator.AssemblyInfo.cs
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Iterator\obj\Debug\net8.0\Iterator.csproj.CoreCompileInputs.cache
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Iterator\obj\Debug\net8.0\Iterator.sourcelink.json
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Iterator\obj\Debug\net8.0\Iterator.dll
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Iterator\obj\Debug\net8.0\refint\Iterator.dll
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Iterator\obj\Debug\net8.0\Iterator.pdb
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Iterator\obj\Debug\net8.0\Iterator.genruntimeconfig.cache
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Iterator\obj\Debug\net8.0\ref\Iterator.dll

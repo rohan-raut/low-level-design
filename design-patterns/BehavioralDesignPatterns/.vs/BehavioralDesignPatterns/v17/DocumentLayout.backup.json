@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA90E83A-C1C8-499A-8868-1AD61B0B2711}|Iterator\\Iterator.csproj|d:\\projects\\low-level-design\\design-patterns\\behavioraldesignpatterns\\iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA90E83A-C1C8-499A-8868-1AD61B0B2711}|Iterator\\Iterator.csproj|solutionrelative:iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA90E83A-C1C8-499A-8868-1AD61B0B2711}|Iterator\\Iterator.csproj|d:\\projects\\low-level-design\\design-patterns\\behavioraldesignpatterns\\iterator\\listiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA90E83A-C1C8-499A-8868-1AD61B0B2711}|Iterator\\Iterator.csproj|solutionrelative:iterator\\listiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA90E83A-C1C8-499A-8868-1AD61B0B2711}|Iterator\\Iterator.csproj|d:\\projects\\low-level-design\\design-patterns\\behavioraldesignpatterns\\iterator\\listcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA90E83A-C1C8-499A-8868-1AD61B0B2711}|Iterator\\Iterator.csproj|solutionrelative:iterator\\listcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA90E83A-C1C8-499A-8868-1AD61B0B2711}|Iterator\\Iterator.csproj|d:\\projects\\low-level-design\\design-patterns\\behavioraldesignpatterns\\iterator\\iiterablecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA90E83A-C1C8-499A-8868-1AD61B0B2711}|Iterator\\Iterator.csproj|solutionrelative:iterator\\iiterablecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA90E83A-C1C8-499A-8868-1AD61B0B2711}|Iterator\\Iterator.csproj|d:\\projects\\low-level-design\\design-patterns\\behavioraldesignpatterns\\iterator\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA90E83A-C1C8-499A-8868-1AD61B0B2711}|Iterator\\Iterator.csproj|solutionrelative:iterator\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListIterator.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Iterator\\ListIterator.cs",
+              "RelativeDocumentMoniker": "Iterator\\ListIterator.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Iterator\\ListIterator.cs",
+              "RelativeToolTip": "Iterator\\ListIterator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:07:23.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListCollection.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Iterator\\ListCollection.cs",
+              "RelativeDocumentMoniker": "Iterator\\ListCollection.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Iterator\\ListCollection.cs",
+              "RelativeToolTip": "Iterator\\ListCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:06:50.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IIterableCollection.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Iterator\\IIterableCollection.cs",
+              "RelativeDocumentMoniker": "Iterator\\IIterableCollection.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Iterator\\IIterableCollection.cs",
+              "RelativeToolTip": "Iterator\\IIterableCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:06:19.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IIterator.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Iterator\\IIterator.cs",
+              "RelativeDocumentMoniker": "Iterator\\IIterator.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Iterator\\IIterator.cs",
+              "RelativeToolTip": "Iterator\\IIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:05:03.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Iterator\\Program.cs",
+              "RelativeDocumentMoniker": "Iterator\\Program.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Iterator\\Program.cs",
+              "RelativeToolTip": "Iterator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:46:10.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
