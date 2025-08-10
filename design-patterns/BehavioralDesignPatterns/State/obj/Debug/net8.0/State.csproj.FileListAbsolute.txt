@@ -1,0 +1,15 @@
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\State\bin\Debug\net8.0\State.exe
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\State\bin\Debug\net8.0\State.deps.json
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\State\bin\Debug\net8.0\State.runtimeconfig.json
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\State\bin\Debug\net8.0\State.dll
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\State\bin\Debug\net8.0\State.pdb
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\State\obj\Debug\net8.0\State.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\State\obj\Debug\net8.0\State.AssemblyInfoInputs.cache
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\State\obj\Debug\net8.0\State.AssemblyInfo.cs
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\State\obj\Debug\net8.0\State.csproj.CoreCompileInputs.cache
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\State\obj\Debug\net8.0\State.sourcelink.json
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\State\obj\Debug\net8.0\State.dll
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\State\obj\Debug\net8.0\refint\State.dll
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\State\obj\Debug\net8.0\State.pdb
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\State\obj\Debug\net8.0\State.genruntimeconfig.cache
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\State\obj\Debug\net8.0\ref\State.dll

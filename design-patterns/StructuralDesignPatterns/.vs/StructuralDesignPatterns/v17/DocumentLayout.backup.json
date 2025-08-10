@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1E4F9C4-A456-45B7-9A79-4400E15C1A89}|DecoratorDesignPattern\\DecoratorDesignPattern.csproj|d:\\projects\\low-level-design\\design-patterns\\structuraldesignpatterns\\decoratordesignpattern\\olivedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1E4F9C4-A456-45B7-9A79-4400E15C1A89}|DecoratorDesignPattern\\DecoratorDesignPattern.csproj|solutionrelative:decoratordesignpattern\\olivedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CB6F443-D138-4112-B42D-CFFD883D7EBC}|FlyWeightDesignPattern\\FlyWeightDesignPattern.csproj|d:\\projects\\low-level-design\\design-patterns\\structuraldesignpatterns\\flyweightdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB6F443-D138-4112-B42D-CFFD883D7EBC}|FlyWeightDesignPattern\\FlyWeightDesignPattern.csproj|solutionrelative:flyweightdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1E4F9C4-A456-45B7-9A79-4400E15C1A89}|DecoratorDesignPattern\\DecoratorDesignPattern.csproj|d:\\projects\\low-level-design\\design-patterns\\structuraldesignpatterns\\decoratordesignpattern\\mushroomdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1E4F9C4-A456-45B7-9A79-4400E15C1A89}|DecoratorDesignPattern\\DecoratorDesignPattern.csproj|solutionrelative:decoratordesignpattern\\mushroomdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CB6F443-D138-4112-B42D-CFFD883D7EBC}|FlyWeightDesignPattern\\FlyWeightDesignPattern.csproj|d:\\projects\\low-level-design\\design-patterns\\structuraldesignpatterns\\flyweightdesignpattern\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB6F443-D138-4112-B42D-CFFD883D7EBC}|FlyWeightDesignPattern\\FlyWeightDesignPattern.csproj|solutionrelative:flyweightdesignpattern\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1E4F9C4-A456-45B7-9A79-4400E15C1A89}|DecoratorDesignPattern\\DecoratorDesignPattern.csproj|d:\\projects\\low-level-design\\design-patterns\\structuraldesignpatterns\\decoratordesignpattern\\cheesedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1E4F9C4-A456-45B7-9A79-4400E15C1A89}|DecoratorDesignPattern\\DecoratorDesignPattern.csproj|solutionrelative:decoratordesignpattern\\cheesedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CB6F443-D138-4112-B42D-CFFD883D7EBC}|FlyWeightDesignPattern\\FlyWeightDesignPattern.csproj|d:\\projects\\low-level-design\\design-patterns\\structuraldesignpatterns\\flyweightdesignpattern\\bullettypefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB6F443-D138-4112-B42D-CFFD883D7EBC}|FlyWeightDesignPattern\\FlyWeightDesignPattern.csproj|solutionrelative:flyweightdesignpattern\\bullettypefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1E4F9C4-A456-45B7-9A79-4400E15C1A89}|DecoratorDesignPattern\\DecoratorDesignPattern.csproj|d:\\projects\\low-level-design\\design-patterns\\structuraldesignpatterns\\decoratordesignpattern\\pizzadecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1E4F9C4-A456-45B7-9A79-4400E15C1A89}|DecoratorDesignPattern\\DecoratorDesignPattern.csproj|solutionrelative:decoratordesignpattern\\pizzadecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1E4F9C4-A456-45B7-9A79-4400E15C1A89}|DecoratorDesignPattern\\DecoratorDesignPattern.csproj|d:\\projects\\low-level-design\\design-patterns\\structuraldesignpatterns\\decoratordesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1E4F9C4-A456-45B7-9A79-4400E15C1A89}|DecoratorDesignPattern\\DecoratorDesignPattern.csproj|solutionrelative:decoratordesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1E4F9C4-A456-45B7-9A79-4400E15C1A89}|DecoratorDesignPattern\\DecoratorDesignPattern.csproj|d:\\projects\\low-level-design\\design-patterns\\structuraldesignpatterns\\decoratordesignpattern\\basicpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1E4F9C4-A456-45B7-9A79-4400E15C1A89}|DecoratorDesignPattern\\DecoratorDesignPattern.csproj|solutionrelative:decoratordesignpattern\\basicpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1E4F9C4-A456-45B7-9A79-4400E15C1A89}|DecoratorDesignPattern\\DecoratorDesignPattern.csproj|d:\\projects\\low-level-design\\design-patterns\\structuraldesignpatterns\\decoratordesignpattern\\ipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1E4F9C4-A456-45B7-9A79-4400E15C1A89}|DecoratorDesignPattern\\DecoratorDesignPattern.csproj|solutionrelative:decoratordesignpattern\\ipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CB6F443-D138-4112-B42D-CFFD883D7EBC}|FlyWeightDesignPattern\\FlyWeightDesignPattern.csproj|d:\\projects\\low-level-design\\design-patterns\\structuraldesignpatterns\\flyweightdesignpattern\\bullettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB6F443-D138-4112-B42D-CFFD883D7EBC}|FlyWeightDesignPattern\\FlyWeightDesignPattern.csproj|solutionrelative:flyweightdesignpattern\\bullettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\DecoratorDesignPattern\\Program.cs",
-              "RelativeDocumentMoniker": "DecoratorDesignPattern\\Program.cs",
-              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\DecoratorDesignPattern\\Program.cs",
-              "RelativeToolTip": "DecoratorDesignPattern\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BulletTypeFactory.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\FlyWeightDesignPattern\\BulletTypeFactory.cs",
+              "RelativeDocumentMoniker": "FlyWeightDesignPattern\\BulletTypeFactory.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\FlyWeightDesignPattern\\BulletTypeFactory.cs",
+              "RelativeToolTip": "FlyWeightDesignPattern\\BulletTypeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T14:49:49.535Z",
+              "WhenOpened": "2025-08-02T06:55:42.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MushroomDecorator.cs",
-              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\DecoratorDesignPattern\\MushroomDecorator.cs",
-              "RelativeDocumentMoniker": "DecoratorDesignPattern\\MushroomDecorator.cs",
-              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\DecoratorDesignPattern\\MushroomDecorator.cs",
-              "RelativeToolTip": "DecoratorDesignPattern\\MushroomDecorator.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAAA3AAAAAAAAAA==",
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\FlyWeightDesignPattern\\Bullet.cs",
+              "RelativeDocumentMoniker": "FlyWeightDesignPattern\\Bullet.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\FlyWeightDesignPattern\\Bullet.cs",
+              "RelativeToolTip": "FlyWeightDesignPattern\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T14:48:59.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OliveDecorator.cs",
-              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\DecoratorDesignPattern\\OliveDecorator.cs",
-              "RelativeDocumentMoniker": "DecoratorDesignPattern\\OliveDecorator.cs",
-              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\DecoratorDesignPattern\\OliveDecorator.cs",
-              "RelativeToolTip": "DecoratorDesignPattern\\OliveDecorator.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T14:48:35.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CheeseDecorator.cs",
-              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\DecoratorDesignPattern\\CheeseDecorator.cs",
-              "RelativeDocumentMoniker": "DecoratorDesignPattern\\CheeseDecorator.cs",
-              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\DecoratorDesignPattern\\CheeseDecorator.cs",
-              "RelativeToolTip": "DecoratorDesignPattern\\CheeseDecorator.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T14:44:19.84Z",
+              "WhenOpened": "2025-08-02T06:54:43.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PizzaDecorator.cs",
-              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\DecoratorDesignPattern\\PizzaDecorator.cs",
-              "RelativeDocumentMoniker": "DecoratorDesignPattern\\PizzaDecorator.cs",
-              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\DecoratorDesignPattern\\PizzaDecorator.cs",
-              "RelativeToolTip": "DecoratorDesignPattern\\PizzaDecorator.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAWAAAAAAAAAA==",
+              "Title": "BulletType.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\FlyWeightDesignPattern\\BulletType.cs",
+              "RelativeDocumentMoniker": "FlyWeightDesignPattern\\BulletType.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\FlyWeightDesignPattern\\BulletType.cs",
+              "RelativeToolTip": "FlyWeightDesignPattern\\BulletType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T14:41:21.826Z",
+              "WhenOpened": "2025-08-02T06:52:08.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BasicPizza.cs",
-              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\DecoratorDesignPattern\\BasicPizza.cs",
-              "RelativeDocumentMoniker": "DecoratorDesignPattern\\BasicPizza.cs",
-              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\DecoratorDesignPattern\\BasicPizza.cs",
-              "RelativeToolTip": "DecoratorDesignPattern\\BasicPizza.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\FlyWeightDesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "FlyWeightDesignPattern\\Program.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\FlyWeightDesignPattern\\Program.cs",
+              "RelativeToolTip": "FlyWeightDesignPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T14:39:01.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IPizza.cs",
-              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\DecoratorDesignPattern\\IPizza.cs",
-              "RelativeDocumentMoniker": "DecoratorDesignPattern\\IPizza.cs",
-              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\StructuralDesignPatterns\\DecoratorDesignPattern\\IPizza.cs",
-              "RelativeToolTip": "DecoratorDesignPattern\\IPizza.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T14:38:11.58Z",
+              "WhenOpened": "2025-08-02T06:45:10.481Z",
               "EditorCaption": ""
             }
           ]

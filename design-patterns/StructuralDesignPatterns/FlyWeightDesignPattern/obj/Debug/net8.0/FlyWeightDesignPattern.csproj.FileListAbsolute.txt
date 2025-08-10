@@ -1,0 +1,15 @@
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FlyWeightDesignPattern\bin\Debug\net8.0\FlyWeightDesignPattern.exe
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FlyWeightDesignPattern\bin\Debug\net8.0\FlyWeightDesignPattern.deps.json
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FlyWeightDesignPattern\bin\Debug\net8.0\FlyWeightDesignPattern.runtimeconfig.json
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FlyWeightDesignPattern\bin\Debug\net8.0\FlyWeightDesignPattern.dll
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FlyWeightDesignPattern\bin\Debug\net8.0\FlyWeightDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FlyWeightDesignPattern\obj\Debug\net8.0\FlyWeightDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FlyWeightDesignPattern\obj\Debug\net8.0\FlyWeightDesignPattern.AssemblyInfoInputs.cache
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FlyWeightDesignPattern\obj\Debug\net8.0\FlyWeightDesignPattern.AssemblyInfo.cs
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FlyWeightDesignPattern\obj\Debug\net8.0\FlyWeightDesignPattern.csproj.CoreCompileInputs.cache
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FlyWeightDesignPattern\obj\Debug\net8.0\FlyWeightDesignPattern.sourcelink.json
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FlyWeightDesignPattern\obj\Debug\net8.0\FlyWeightDesignPattern.dll
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FlyWeightDesignPattern\obj\Debug\net8.0\refint\FlyWeightDesignPattern.dll
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FlyWeightDesignPattern\obj\Debug\net8.0\FlyWeightDesignPattern.pdb
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FlyWeightDesignPattern\obj\Debug\net8.0\FlyWeightDesignPattern.genruntimeconfig.cache
+D:\projects\low-level-design\design-patterns\StructuralDesignPatterns\FlyWeightDesignPattern\obj\Debug\net8.0\ref\FlyWeightDesignPattern.dll

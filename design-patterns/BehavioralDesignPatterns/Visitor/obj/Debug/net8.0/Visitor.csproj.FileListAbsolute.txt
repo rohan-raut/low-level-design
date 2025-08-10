@@ -1,0 +1,15 @@
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Visitor\bin\Debug\net8.0\Visitor.exe
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Visitor\bin\Debug\net8.0\Visitor.deps.json
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Visitor\bin\Debug\net8.0\Visitor.runtimeconfig.json
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Visitor\bin\Debug\net8.0\Visitor.dll
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Visitor\bin\Debug\net8.0\Visitor.pdb
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Visitor\obj\Debug\net8.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Visitor\obj\Debug\net8.0\Visitor.AssemblyInfoInputs.cache
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Visitor\obj\Debug\net8.0\Visitor.AssemblyInfo.cs
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Visitor\obj\Debug\net8.0\Visitor.csproj.CoreCompileInputs.cache
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Visitor\obj\Debug\net8.0\Visitor.sourcelink.json
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Visitor\obj\Debug\net8.0\Visitor.dll
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Visitor\obj\Debug\net8.0\refint\Visitor.dll
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Visitor\obj\Debug\net8.0\Visitor.pdb
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Visitor\obj\Debug\net8.0\Visitor.genruntimeconfig.cache
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Visitor\obj\Debug\net8.0\ref\Visitor.dll

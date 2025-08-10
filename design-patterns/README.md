@@ -1,6 +1,7 @@
 # Design Patterns
 
 ## Creational Design Patterns
+Creational Design Patterns tells how the objects should be created.
 - Factory Method
 - Abstract Factory
 - Builder
@@ -8,11 +9,14 @@
 - Prototype
 
 ## Structural Patterns
+Structural Design Patterns tells about the relations (composition/inheritance) between classes.
 - Adapter
 - Decorator
 - Proxy
 - Composite
 - Facade
+- Bridge
+- Flyweight
 
 ## Behavioral Patterns
 Focuses on objects communications and interactions, promotes loose coupling and enhance flexibility. Behavioral and responsiblity of entities.
@@ -25,7 +29,9 @@ Focuses on objects communications and interactions, promotes loose coupling and 
 - Template Method
 - State
 - Mediator
-- Visitor (Pending)
+- Visitor
 
 
 **References:**
+- https://refactoring.guru/
+- https://github.com/prateek27/design-patterns-java

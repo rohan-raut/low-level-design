@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EDCDBBE-97BA-4DC4-8619-1EF40C4E6DB0}|Observer\\Observer.csproj|d:\\projects\\low-level-design\\design-patterns\\behavioraldesignpatterns\\observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EDCDBBE-97BA-4DC4-8619-1EF40C4E6DB0}|Observer\\Observer.csproj|solutionrelative:observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{674B52CC-C4FC-4620-9B0D-C00B6ECC18EC}|Command\\Command.csproj|d:\\projects\\low-level-design\\design-patterns\\behavioraldesignpatterns\\command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B52CC-C4FC-4620-9B0D-C00B6ECC18EC}|Command\\Command.csproj|solutionrelative:command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EDCDBBE-97BA-4DC4-8619-1EF40C4E6DB0}|Observer\\Observer.csproj|d:\\projects\\low-level-design\\design-patterns\\behavioraldesignpatterns\\observer\\applestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EDCDBBE-97BA-4DC4-8619-1EF40C4E6DB0}|Observer\\Observer.csproj|solutionrelative:observer\\applestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{674B52CC-C4FC-4620-9B0D-C00B6ECC18EC}|Command\\Command.csproj|d:\\projects\\low-level-design\\design-patterns\\behavioraldesignpatterns\\command\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B52CC-C4FC-4620-9B0D-C00B6ECC18EC}|Command\\Command.csproj|solutionrelative:command\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EDCDBBE-97BA-4DC4-8619-1EF40C4E6DB0}|Observer\\Observer.csproj|d:\\projects\\low-level-design\\design-patterns\\behavioraldesignpatterns\\observer\\ipublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EDCDBBE-97BA-4DC4-8619-1EF40C4E6DB0}|Observer\\Observer.csproj|solutionrelative:observer\\ipublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{674B52CC-C4FC-4620-9B0D-C00B6ECC18EC}|Command\\Command.csproj|d:\\projects\\low-level-design\\design-patterns\\behavioraldesignpatterns\\command\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B52CC-C4FC-4620-9B0D-C00B6ECC18EC}|Command\\Command.csproj|solutionrelative:command\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EDCDBBE-97BA-4DC4-8619-1EF40C4E6DB0}|Observer\\Observer.csproj|d:\\projects\\low-level-design\\design-patterns\\behavioraldesignpatterns\\observer\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EDCDBBE-97BA-4DC4-8619-1EF40C4E6DB0}|Observer\\Observer.csproj|solutionrelative:observer\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{674B52CC-C4FC-4620-9B0D-C00B6ECC18EC}|Command\\Command.csproj|d:\\projects\\low-level-design\\design-patterns\\behavioraldesignpatterns\\command\\italictext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B52CC-C4FC-4620-9B0D-C00B6ECC18EC}|Command\\Command.csproj|solutionrelative:command\\italictext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EDCDBBE-97BA-4DC4-8619-1EF40C4E6DB0}|Observer\\Observer.csproj|d:\\projects\\low-level-design\\design-patterns\\behavioraldesignpatterns\\observer\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EDCDBBE-97BA-4DC4-8619-1EF40C4E6DB0}|Observer\\Observer.csproj|solutionrelative:observer\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{674B52CC-C4FC-4620-9B0D-C00B6ECC18EC}|Command\\Command.csproj|d:\\projects\\low-level-design\\design-patterns\\behavioraldesignpatterns\\command\\boldcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B52CC-C4FC-4620-9B0D-C00B6ECC18EC}|Command\\Command.csproj|solutionrelative:command\\boldcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674B52CC-C4FC-4620-9B0D-C00B6ECC18EC}|Command\\Command.csproj|d:\\projects\\low-level-design\\design-patterns\\behavioraldesignpatterns\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B52CC-C4FC-4620-9B0D-C00B6ECC18EC}|Command\\Command.csproj|solutionrelative:command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AppleStore.cs",
-              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Observer\\AppleStore.cs",
-              "RelativeDocumentMoniker": "Observer\\AppleStore.cs",
-              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Observer\\AppleStore.cs",
-              "RelativeToolTip": "Observer\\AppleStore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Title": "Button.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Command\\Button.cs",
+              "RelativeDocumentMoniker": "Command\\Button.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Command\\Button.cs",
+              "RelativeToolTip": "Command\\Button.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T17:22:15.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Subscriber.cs",
-              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Observer\\Subscriber.cs",
-              "RelativeDocumentMoniker": "Observer\\Subscriber.cs",
-              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Observer\\Subscriber.cs",
-              "RelativeToolTip": "Observer\\Subscriber.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T17:22:04.185Z",
+              "WhenOpened": "2025-08-10T13:40:15.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IPublisher.cs",
-              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Observer\\IPublisher.cs",
-              "RelativeDocumentMoniker": "Observer\\IPublisher.cs",
-              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Observer\\IPublisher.cs",
-              "RelativeToolTip": "Observer\\IPublisher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Title": "TextEditor.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Command\\TextEditor.cs",
+              "RelativeDocumentMoniker": "Command\\TextEditor.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Command\\TextEditor.cs",
+              "RelativeToolTip": "Command\\TextEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T17:21:48.506Z",
+              "WhenOpened": "2025-08-10T13:39:26.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItalicText.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Command\\ItalicText.cs",
+              "RelativeDocumentMoniker": "Command\\ItalicText.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Command\\ItalicText.cs",
+              "RelativeToolTip": "Command\\ItalicText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:38:13.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ISubscriber.cs",
-              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Observer\\ISubscriber.cs",
-              "RelativeDocumentMoniker": "Observer\\ISubscriber.cs",
-              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Observer\\ISubscriber.cs",
-              "RelativeToolTip": "Observer\\ISubscriber.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "BoldCommand.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Command\\BoldCommand.cs",
+              "RelativeDocumentMoniker": "Command\\BoldCommand.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Command\\BoldCommand.cs",
+              "RelativeToolTip": "Command\\BoldCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T17:21:37.151Z",
+              "WhenOpened": "2025-08-10T13:38:00.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Command\\ICommand.cs",
+              "RelativeDocumentMoniker": "Command\\ICommand.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Command\\ICommand.cs",
+              "RelativeToolTip": "Command\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:37:47.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Observer\\Program.cs",
-              "RelativeDocumentMoniker": "Observer\\Program.cs",
-              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Observer\\Program.cs",
-              "RelativeToolTip": "Observer\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Command\\Program.cs",
+              "RelativeDocumentMoniker": "Command\\Program.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\design-patterns\\BehavioralDesignPatterns\\Command\\Program.cs",
+              "RelativeToolTip": "Command\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T17:18:54.207Z",
+              "WhenOpened": "2025-08-10T13:37:32.349Z",
               "EditorCaption": ""
             }
           ]

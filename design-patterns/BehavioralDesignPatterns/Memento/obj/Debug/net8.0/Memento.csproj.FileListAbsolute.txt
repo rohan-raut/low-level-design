@@ -1,0 +1,15 @@
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Memento\bin\Debug\net8.0\Memento.exe
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Memento\bin\Debug\net8.0\Memento.deps.json
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Memento\bin\Debug\net8.0\Memento.runtimeconfig.json
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Memento\bin\Debug\net8.0\Memento.dll
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Memento\bin\Debug\net8.0\Memento.pdb
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Memento\obj\Debug\net8.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Memento\obj\Debug\net8.0\Memento.AssemblyInfoInputs.cache
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Memento\obj\Debug\net8.0\Memento.AssemblyInfo.cs
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Memento\obj\Debug\net8.0\Memento.csproj.CoreCompileInputs.cache
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Memento\obj\Debug\net8.0\Memento.sourcelink.json
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Memento\obj\Debug\net8.0\Memento.dll
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Memento\obj\Debug\net8.0\refint\Memento.dll
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Memento\obj\Debug\net8.0\Memento.pdb
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Memento\obj\Debug\net8.0\Memento.genruntimeconfig.cache
+D:\projects\low-level-design\design-patterns\BehavioralDesignPatterns\Memento\obj\Debug\net8.0\ref\Memento.dll
