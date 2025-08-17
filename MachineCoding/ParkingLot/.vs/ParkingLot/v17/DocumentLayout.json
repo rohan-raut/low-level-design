@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\low-level-design\\MachineCoding\\ParkingLot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23F2D588-65F6-46D2-9BD4-DA6797356DEB}|ParkingLot\\ParkingLot.csproj|d:\\projects\\low-level-design\\machinecoding\\parkinglot\\parkinglot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F2D588-65F6-46D2-9BD4-DA6797356DEB}|ParkingLot\\ParkingLot.csproj|solutionrelative:parkinglot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F2D588-65F6-46D2-9BD4-DA6797356DEB}|ParkingLot\\ParkingLot.csproj|d:\\projects\\low-level-design\\machinecoding\\parkinglot\\parkinglot\\models\\parkingfloor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F2D588-65F6-46D2-9BD4-DA6797356DEB}|ParkingLot\\ParkingLot.csproj|solutionrelative:parkinglot\\models\\parkingfloor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F2D588-65F6-46D2-9BD4-DA6797356DEB}|ParkingLot\\ParkingLot.csproj|d:\\projects\\low-level-design\\machinecoding\\parkinglot\\parkinglot\\models\\parkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F2D588-65F6-46D2-9BD4-DA6797356DEB}|ParkingLot\\ParkingLot.csproj|solutionrelative:parkinglot\\models\\parkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F2D588-65F6-46D2-9BD4-DA6797356DEB}|ParkingLot\\ParkingLot.csproj|d:\\projects\\low-level-design\\machinecoding\\parkinglot\\parkinglot\\models\\parkinglot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F2D588-65F6-46D2-9BD4-DA6797356DEB}|ParkingLot\\ParkingLot.csproj|solutionrelative:parkinglot\\models\\parkinglot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParkingFloor.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\MachineCoding\\ParkingLot\\ParkingLot\\Models\\ParkingFloor.cs",
+              "RelativeDocumentMoniker": "ParkingLot\\Models\\ParkingFloor.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\MachineCoding\\ParkingLot\\ParkingLot\\Models\\ParkingFloor.cs",
+              "RelativeToolTip": "ParkingLot\\Models\\ParkingFloor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:15:01.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParkingSpot.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\MachineCoding\\ParkingLot\\ParkingLot\\Models\\ParkingSpot.cs",
+              "RelativeDocumentMoniker": "ParkingLot\\Models\\ParkingSpot.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\MachineCoding\\ParkingLot\\ParkingLot\\Models\\ParkingSpot.cs",
+              "RelativeToolTip": "ParkingLot\\Models\\ParkingSpot.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:14:50.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParkingLot.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\MachineCoding\\ParkingLot\\ParkingLot\\Models\\ParkingLot.cs",
+              "RelativeDocumentMoniker": "ParkingLot\\Models\\ParkingLot.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\MachineCoding\\ParkingLot\\ParkingLot\\Models\\ParkingLot.cs",
+              "RelativeToolTip": "ParkingLot\\Models\\ParkingLot.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:04:47.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\low-level-design\\MachineCoding\\ParkingLot\\ParkingLot\\Program.cs",
+              "RelativeDocumentMoniker": "ParkingLot\\Program.cs",
+              "ToolTip": "D:\\projects\\low-level-design\\MachineCoding\\ParkingLot\\ParkingLot\\Program.cs",
+              "RelativeToolTip": "ParkingLot\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:02:01.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

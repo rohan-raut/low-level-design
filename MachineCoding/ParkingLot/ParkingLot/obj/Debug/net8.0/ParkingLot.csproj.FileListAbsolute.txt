@@ -1,0 +1,15 @@
+D:\projects\low-level-design\MachineCoding\ParkingLot\ParkingLot\bin\Debug\net8.0\ParkingLot.exe
+D:\projects\low-level-design\MachineCoding\ParkingLot\ParkingLot\bin\Debug\net8.0\ParkingLot.deps.json
+D:\projects\low-level-design\MachineCoding\ParkingLot\ParkingLot\bin\Debug\net8.0\ParkingLot.runtimeconfig.json
+D:\projects\low-level-design\MachineCoding\ParkingLot\ParkingLot\bin\Debug\net8.0\ParkingLot.dll
+D:\projects\low-level-design\MachineCoding\ParkingLot\ParkingLot\bin\Debug\net8.0\ParkingLot.pdb
+D:\projects\low-level-design\MachineCoding\ParkingLot\ParkingLot\obj\Debug\net8.0\ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\low-level-design\MachineCoding\ParkingLot\ParkingLot\obj\Debug\net8.0\ParkingLot.AssemblyInfoInputs.cache
+D:\projects\low-level-design\MachineCoding\ParkingLot\ParkingLot\obj\Debug\net8.0\ParkingLot.AssemblyInfo.cs
+D:\projects\low-level-design\MachineCoding\ParkingLot\ParkingLot\obj\Debug\net8.0\ParkingLot.csproj.CoreCompileInputs.cache
+D:\projects\low-level-design\MachineCoding\ParkingLot\ParkingLot\obj\Debug\net8.0\ParkingLot.sourcelink.json
+D:\projects\low-level-design\MachineCoding\ParkingLot\ParkingLot\obj\Debug\net8.0\ParkingLot.dll
+D:\projects\low-level-design\MachineCoding\ParkingLot\ParkingLot\obj\Debug\net8.0\refint\ParkingLot.dll
+D:\projects\low-level-design\MachineCoding\ParkingLot\ParkingLot\obj\Debug\net8.0\ParkingLot.pdb
+D:\projects\low-level-design\MachineCoding\ParkingLot\ParkingLot\obj\Debug\net8.0\ParkingLot.genruntimeconfig.cache
+D:\projects\low-level-design\MachineCoding\ParkingLot\ParkingLot\obj\Debug\net8.0\ref\ParkingLot.dll
